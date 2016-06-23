@@ -118,7 +118,7 @@
     <snapshotRepository>
         <id>snapshots</id>
         <name>qaagility-snapshots</name>
-        <url>https://qaagility.jfrog.io/qaagility/webapp/</url>
+        <url>https://qaagility.jfrog.io/qaagility/ext-snapshot-local</url>
     </snapshotRepository>
     </distributionManagement>
 
