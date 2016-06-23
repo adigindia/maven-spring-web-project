@@ -117,8 +117,8 @@
     <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>crevise-snapshots</name>
-        <url>https://crevise.jfrog.io/crevise/ext-snapshot-local</url>
+        <name>qaagility-snapshots</name>
+        <url>https://qaagility.jfrog.io/qaagility/webapp/</url>
     </snapshotRepository>
     </distributionManagement>
 
